@@ -750,6 +750,10 @@ header.main-header .header-sticky.active{
     height: 100%;
 }
 
+.hero.hero-video{
+	background-image: none;
+}
+
 .hero-video .hero-bg-video{
 	position: absolute;
 	top: 0;
